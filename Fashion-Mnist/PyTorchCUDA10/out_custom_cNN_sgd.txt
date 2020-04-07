@@ -1,0 +1,152 @@
+[0,   199] loss: 0.2322
+Accuracy of the network on 128 training images: 82.812 %
+[0,   399] loss: 0.1522
+Accuracy of the network on 128 training images: 87.500 %
+epoch 0 cost 5.599674 sec
+[1,   199] loss: 0.1308
+Accuracy of the network on 128 training images: 85.156 %
+[1,   399] loss: 0.1189
+Accuracy of the network on 128 training images: 85.938 %
+epoch 1 cost 5.257674 sec
+[2,   199] loss: 0.1123
+Accuracy of the network on 128 training images: 86.719 %
+[2,   399] loss: 0.1131
+Accuracy of the network on 128 training images: 86.719 %
+epoch 2 cost 5.318810 sec
+[3,   199] loss: 0.1048
+Accuracy of the network on 128 training images: 92.188 %
+[3,   399] loss: 0.1025
+Accuracy of the network on 128 training images: 87.500 %
+epoch 3 cost 5.199951 sec
+[4,   199] loss: 0.0963
+Accuracy of the network on 128 training images: 93.750 %
+[4,   399] loss: 0.0993
+Accuracy of the network on 128 training images: 87.500 %
+epoch 4 cost 5.279388 sec
+[5,   199] loss: 0.0868
+Accuracy of the network on 128 training images: 90.625 %
+[5,   399] loss: 0.0922
+Accuracy of the network on 128 training images: 92.188 %
+epoch 5 cost 5.235374 sec
+[6,   199] loss: 0.0856
+Accuracy of the network on 128 training images: 95.312 %
+[6,   399] loss: 0.0882
+Accuracy of the network on 128 training images: 92.188 %
+epoch 6 cost 5.170401 sec
+[7,   199] loss: 0.0806
+Accuracy of the network on 128 training images: 92.969 %
+[7,   399] loss: 0.0842
+Accuracy of the network on 128 training images: 89.844 %
+epoch 7 cost 5.228042 sec
+[8,   199] loss: 0.0760
+Accuracy of the network on 128 training images: 92.969 %
+[8,   399] loss: 0.0807
+Accuracy of the network on 128 training images: 92.969 %
+epoch 8 cost 5.123354 sec
+[9,   199] loss: 0.0766
+Accuracy of the network on 128 training images: 92.969 %
+[9,   399] loss: 0.0739
+Accuracy of the network on 128 training images: 93.750 %
+epoch 9 cost 5.207882 sec
+[10,   199] loss: 0.0740
+Accuracy of the network on 128 training images: 93.750 %
+[10,   399] loss: 0.0719
+Accuracy of the network on 128 training images: 89.844 %
+epoch 10 cost 5.092728 sec
+[11,   199] loss: 0.0673
+Accuracy of the network on 128 training images: 90.625 %
+[11,   399] loss: 0.0720
+Accuracy of the network on 128 training images: 92.969 %
+epoch 11 cost 5.273702 sec
+[12,   199] loss: 0.0661
+Accuracy of the network on 128 training images: 92.969 %
+[12,   399] loss: 0.0701
+Accuracy of the network on 128 training images: 94.531 %
+epoch 12 cost 5.090904 sec
+[13,   199] loss: 0.0651
+Accuracy of the network on 128 training images: 94.531 %
+[13,   399] loss: 0.0657
+Accuracy of the network on 128 training images: 95.312 %
+epoch 13 cost 5.291686 sec
+[14,   199] loss: 0.0621
+Accuracy of the network on 128 training images: 94.531 %
+[14,   399] loss: 0.0640
+Accuracy of the network on 128 training images: 95.312 %
+epoch 14 cost 5.268957 sec
+[15,   199] loss: 0.0621
+Accuracy of the network on 128 training images: 91.406 %
+[15,   399] loss: 0.0620
+Accuracy of the network on 128 training images: 93.750 %
+epoch 15 cost 5.258451 sec
+[16,   199] loss: 0.0569
+Accuracy of the network on 128 training images: 94.531 %
+[16,   399] loss: 0.0626
+Accuracy of the network on 128 training images: 96.875 %
+epoch 16 cost 5.068065 sec
+[17,   199] loss: 0.0574
+Accuracy of the network on 128 training images: 95.312 %
+[17,   399] loss: 0.0581
+Accuracy of the network on 128 training images: 95.312 %
+epoch 17 cost 5.292632 sec
+[18,   199] loss: 0.0543
+Accuracy of the network on 128 training images: 95.312 %
+[18,   399] loss: 0.0571
+Accuracy of the network on 128 training images: 93.750 %
+epoch 18 cost 5.160960 sec
+[19,   199] loss: 0.0556
+Accuracy of the network on 128 training images: 96.875 %
+[19,   399] loss: 0.0523
+Accuracy of the network on 128 training images: 94.531 %
+epoch 19 cost 5.232026 sec
+[20,   199] loss: 0.0501
+Accuracy of the network on 128 training images: 94.531 %
+[20,   399] loss: 0.0543
+Accuracy of the network on 128 training images: 95.312 %
+epoch 20 cost 5.246652 sec
+[21,   199] loss: 0.0499
+Accuracy of the network on 128 training images: 92.969 %
+[21,   399] loss: 0.0526
+Accuracy of the network on 128 training images: 92.188 %
+epoch 21 cost 5.266554 sec
+[22,   199] loss: 0.0507
+Accuracy of the network on 128 training images: 96.094 %
+[22,   399] loss: 0.0511
+Accuracy of the network on 128 training images: 97.656 %
+epoch 22 cost 5.205812 sec
+[23,   199] loss: 0.0449
+Accuracy of the network on 128 training images: 96.875 %
+[23,   399] loss: 0.0513
+Accuracy of the network on 128 training images: 92.969 %
+epoch 23 cost 5.201991 sec
+[24,   199] loss: 0.0462
+Accuracy of the network on 128 training images: 96.094 %
+[24,   399] loss: 0.0496
+Accuracy of the network on 128 training images: 95.312 %
+epoch 24 cost 5.293288 sec
+[25,   199] loss: 0.0446
+Accuracy of the network on 128 training images: 97.656 %
+[25,   399] loss: 0.0476
+Accuracy of the network on 128 training images: 99.219 %
+epoch 25 cost 5.210377 sec
+[26,   199] loss: 0.0427
+Accuracy of the network on 128 training images: 97.656 %
+[26,   399] loss: 0.0451
+Accuracy of the network on 128 training images: 95.312 %
+epoch 26 cost 5.201621 sec
+[27,   199] loss: 0.0427
+Accuracy of the network on 128 training images: 96.875 %
+[27,   399] loss: 0.0430
+Accuracy of the network on 128 training images: 95.312 %
+epoch 27 cost 5.154777 sec
+[28,   199] loss: 0.0408
+Accuracy of the network on 128 training images: 97.656 %
+[28,   399] loss: 0.0459
+Accuracy of the network on 128 training images: 96.875 %
+epoch 28 cost 5.271209 sec
+[29,   199] loss: 0.0391
+Accuracy of the network on 128 training images: 98.438 %
+[29,   399] loss: 0.0423
+Accuracy of the network on 128 training images: 96.875 %
+epoch 29 cost 5.288807 sec
+Finished Training
+Accuracy of the network on the 10000 test images: 91.140 %
